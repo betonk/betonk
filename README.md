@@ -2,9 +2,9 @@
 
 Perkenalkan nama saya **Ahmad Fathon Nurhidayat**
 
-Saya seorang **Mahasiswa** semester 6 di Univertitas Pembangunan Jaya
+Saya seorang **Mahasiswa** semester 7 di Univertitas Pembangunan Jaya
 
-Saya memiliki ketertarikan pada bidang Frontend Developer, saya juga sudah mengikuti beberapa kursus untuk meningkatkan pengetahuan saya
+Saya memiliki ketertarikan pada bidang Frontend Developer dan data science, saya juga sudah mengikuti beberapa kursus untuk meningkatkan pengetahuan saya
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/ahmad-fathon)
 
