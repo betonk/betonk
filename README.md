@@ -1,12 +1,6 @@
-# Halo semua! 
+# Hello Everyone!! 
 
-Perkenalkan nama saya **Ahmad Fathon Nurhidayat**
-
-Saya seorang **Mahasiswa** semester 7 di Univertitas Pembangunan Jaya
-
-Saya memiliki ketertarikan pada bidang Frontend Developer dan data science, saya juga sudah mengikuti beberapa kursus untuk meningkatkan pengetahuan saya
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/ahmad-fathon)
+yo! 👋 you can call me faton (betonk), I am a frontend Development and data science from Indonesia.
 
 <p align="left">
 <a href="https://github.com/betonk26">
