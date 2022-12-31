@@ -1,6 +1,6 @@
 # Hello Everyone!! 
 
-yo! 👋 you can call me faton (betonk), I am a frontend Development and data science from Indonesia.
+yo! 👋 you can call me Fathon (faton), I am a frontend Development and data science from Indonesia.
 
 <p align="left">
 <a href="https://github.com/betonk">
