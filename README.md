@@ -1,4 +1,4 @@
-# Hello Everyone!
+<h2> <img  src="https://media.giphy.com/media/3o7aDcEbGEsFAwSL0Q/giphy.gif" width="2%" /> Hello Everyone!</h2>
 
 yo! 👋 you can call me Fathon (faton), I am a Junior UI/UX Designer and frontend Development from Indonesia.
 
